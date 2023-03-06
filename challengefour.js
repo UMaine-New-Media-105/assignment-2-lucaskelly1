@@ -76,3 +76,4 @@ function addStar(x,y,size) {
   endShape(CLOSE);
   pop();
 }
+//
